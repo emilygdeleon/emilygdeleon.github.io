@@ -109,15 +109,16 @@
   overflow: hidden;
 }
 .experience {
-  color: rgba(255, 255, 255, 0.77);
+  color: rgba(255, 255, 255, 0.9);
   text-align: center;
   font-family: "Maven Pro", Helvetica;
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 623px);
-  width: 252px;
+  right: 990px;
+  top: 28px;
+  width: 181px;
   height: 101px;
   display: flex;
   align-items: center;
