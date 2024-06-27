@@ -108,18 +108,17 @@
   top: 26px;
   overflow: hidden;
 }
-.experience {
-  color: rgba(255, 255, 255, 0.77);
+.education {
+  color: rgba(255, 255, 255, 0.9);
   text-align: center;
   font-family: "Maven Pro", Helvetica;
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
   position: absolute;
-  left: 50%; /* Center horizontally relative to the nearest positioned ancestor */
-  top: 1350px; /* Adjust this value as needed to position it towards the bottom */
-  transform: translateX(-50%); /* Shifts the element left by half its width to truly center it */
-  width: 252px;
+  right: 990px;
+  top: 28px;
+  width: 181px;
   height: 101px;
   display: flex;
   align-items: center;
