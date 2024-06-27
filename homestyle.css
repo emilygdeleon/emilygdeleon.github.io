@@ -4,7 +4,7 @@
 }
 .homepage {
   background: #757575;
-  height: 1510px;
+  height: 2000px;
   position: relative;
   overflow: hidden;
 }
@@ -55,7 +55,7 @@
   font-weight: 400;
   position: absolute;
   left: 839px;
-  top: 1340px;
+  top: 1940px;
   width: 241px;
   height: 64px;
 }
@@ -116,7 +116,6 @@
   font-weight: 400;
   position: absolute;
   left: calc(50% - 623px);
-  top: calc(50% - 82.5px);
   width: 252px;
   height: 101px;
   display: flex;
