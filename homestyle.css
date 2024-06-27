@@ -21,14 +21,19 @@
     width: 800px;
     height: 1214px;
 }
-.emily-deleon-emilygdeleon-gmail-com {
-  color: rgba(255, 255, 255, 0.9);
-  text-align: left;
+._2024-emily-deleon {
+  color: rgba(255, 255, 255, 0.19);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 24px;
+  line-height: 160%;
+  font-weight: 400;
   position: absolute;
-  right: 10px;
-  left: 85px;
-  top: 150px;
-  height: 200px;
+  top: 1970px; /* Adjust if necessary to move it higher or lower */
+  left: 50%; /* Center the div horizontally */
+  width: 241px;
+  height: 24px;
+  transform: translateX(-50%); /* This will perfectly center the div */
 }
 .emily-deleon-emilygdeleon-gmail-com-span {
   color: rgba(255, 255, 255, 0.9);
