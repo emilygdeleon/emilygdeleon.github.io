@@ -1,0 +1,209 @@
+.education,
+.education * {
+  box-sizing: border-box;
+}
+.education {
+    background: #757575;
+    height: 1300px;
+  position: relative;
+  overflow: hidden;
+}
+.in-may-2024-i-graduated-with-a-bachelors-of-science-in-systems-engineering-and-design-from-the-university-of-illinois-at-urbana-champaign-s-grainger-college-of-engineering-the-interdisciplinary-program-provided-me-the-unique-opportunity-to-study-a-wide-range-of-engineering-disciplines-including-industrial-mechanical-electrical-materials-science-as-well-as-the-option-to-pursue-a-secondary-field-of-studies-in-business-systems-integration-and-consulting-through-my-studies-coupled-with-my-natural-inclination-to-problem-solving-and-project-work-i-fell-in-love-with-applying-the-technical-principals-and-the-engineering-mindset-i-acquired-to-achieve-impactful-results-in-the-professional-setting-i-am-both-a-successful-self-starter-and-team-player-with-a-profound-love-for-collaborating-in-teams-with-diverse-individuals-internally-and-externally {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: left;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 26px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 96px;
+  top: 423px;
+  width: 975px;
+  height: 479px;
+}
+.image-1 {
+  width: 381px;
+  height: 380px;
+  position: absolute;
+  left: 1177px;
+  top: 453px;
+  object-fit: cover;
+}
+.image-5 {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    left: 1049px;
+    top: 195px;
+    object-fit: cover;
+  }
+  .image-2 {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    left: 1177px;
+    top: 195px;
+    object-fit: cover;
+  }
+  .image-3 {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    left: 1303px;
+    top: 195px;
+    object-fit: cover;
+  }
+  .image-4 {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    left: 1419px;
+    top: 195px;
+    object-fit: cover;
+  }
+._2024-emily-deleon {
+  color: rgba(255, 255, 255, 0.19);
+  text-align: left;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 24px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 839px;
+  top: 1001px;
+  width: 241px;
+  height: 64px;
+}
+.emily-deleon-emilygdeleon-gmail-com {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: left;
+  position: absolute;
+  right: 10px;
+  left: 85px;
+  top: 195px;
+  height: 300px;
+}
+.emily-deleon-emilygdeleon-gmail-com-span {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Libre Baskerville", Helvetica;
+  font-size: 90px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+}
+.emily-deleon-emilygdeleon-gmail-com-span2 {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Libre Baskerville", Helvetica;
+  font-size: 64px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+/* Header styles unified based on homestyle.css */
+}
+.header {
+  width: 1714px;
+  height: 221px;
+  position: absolute;
+  left: calc(50% - 824px);  /* Center the header based on parent container width */
+  top: 26px;  /* Consistent top margin */
+  overflow: hidden;
+}
+
+.home, .experience, .education2, .technical-skills-and-relevant-skills, .linked-in {
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.9); /* Ensure color consistency */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 101px;  /* Unified height for all items */
+}
+
+.home {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 1536px;
+  top: 28px;
+  width: 190px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experience {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 623px);
+  top: calc(50% - 82.5px);
+  width: 252px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.education2 {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 990px;
+  top: 28px;
+  width: 181px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.technical-skills-and-relevant-skills {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 355px;
+  top: 28px;
+  width: 542px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.linked-in {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 90px;
+  top: 28px;
+  width: 173px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+

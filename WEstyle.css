@@ -1,0 +1,351 @@
+.work-experience,
+.work-experience * {
+  box-sizing: border-box;
+}
+.work-experience {
+  background: #757575;
+  height: 2570px;
+  position: relative;
+  overflow: hidden;
+}
+.button {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 19px 32px 19px 32px;
+  width: 299px;
+  height: 90px;
+  position: absolute;
+  left: calc(50% - 135px);
+  top: 464px;
+  overflow: hidden;
+}
+.download-resume {
+  color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 26px;
+  line-height: 130%;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 117.5px);
+  top: calc(50% - 17px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.continuing-work-as-a-management-and-technology-consultant-after-a-successful-initial-project-in-medicare-compliance-and-price-transparency-i-extensively-researched-evolving-innovative-data-collection-methods-for-pricing-in-the-private-health-insurance-sector-i-strategically-analyzed-sql-queries-to-evaluate-surgical-procedure-rates-across-five-key-us-regions-aiding-in-database-debugging-and-optimization-to-achieve-client-objectives-i-closely-collaborated-with-professionals-at-all-levels-from-staff-to-partners-leveraging-their-industry-expertise-i-completed-an-extensive-training-program-that-included-networking-mentorship-formal-training-and-personal-growth-enabling-immediate-client-value-and-contributing-positively-to-the-firm-s-culture-and-community-service-efforts-as-an-interim-project-manager-i-oversaw-vendor-negotiations-and-managed-a-six-figure-funded-project-from-concept-to-enterprise-wide-implementation-using-both-coding-expertise-and-no-code-solutions-i-enhanced-operational-efficiency-by-engineering-front-end-and-back-end-systems-i-designed-dynamic-power-bi-dashboards-to-track-vehicle-inspection-and-employee-training-compliance-metrics-achieving-a-16-increase-in-vehicle-inspection-compliance-through-semi-automatic-intelligent-data-analysis-this-initiative-saved-over-1-000-annual-hours-per-regional-safety-manager-in-the-fire-division-and-improved-osha-compliance-i-developed-a-comprehensive-ergonomics-solution-sourcebook-intranet-site-accessed-by-over-40-000-employees-to-centralize-ergonomic-resources-and-best-practices-additionally-i-created-and-piloted-an-automated-safety-lead-process-improving-incident-awareness-and-injury-prevention-strategies-my-consultant-journey-began-at-the-staff-level-where-i-was-later-promoted-to-senior-and-subsequently-selected-as-a-project-director-in-this-role-i-directed-a-team-of-over-9-consultants-for-three-different-semester-long-projects-managing-client-engagement-and-leading-optimization-efforts-for-guardhat-inc-s-safety-and-inspection-manager-io-t-platform-through-targeted-feature-prioritization-i-provided-extensive-consulting-on-market-research-and-fostering-a-start-up-culture-at-guardhat-inc-consistently-delivering-high-level-insights-and-impactful-results-i-generated-and-presented-high-level-quantitative-and-qualitative-reports-weekly-informing-strategic-decisions-my-efforts-were-integral-in-surpassing-ascent-integrated-technology-s-customer-discovery-outreach-goals-successfully-engaging-prospective-clients-for-pilot-programs-in-incident-command-solutions-additionally-i-led-the-initiative-to-enhance-user-experience-for-the-blaze-app-a-group-me-adjacent-group-messaging-app-by-maintaining-direct-and-strategic-communication-with-the-founder-ensuring-that-our-development-efforts-aligned-with-the-vision-and-needs-of-our-user-base {
+  color: #ffffff;
+  background: #757575;
+  text-align: left;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 28px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 504px;
+  top: 623px;
+  width: 1070px;
+  height: 1557px;
+}
+.baker-tilly-us-llp-digital-healthcare-consulting-intern-chicago-il-june-august-2023 {
+  color: #ffffff;
+  background: #757575;
+  text-align: left;
+  position: absolute;
+  left: 107px;
+  top: 636px;
+  width: 305px;
+  height: 374px;
+}
+.baker-tilly-us-llp-digital-healthcare-consulting-intern-chicago-il-june-august-2023-span {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 36px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+.baker-tilly-us-llp-digital-healthcare-consulting-intern-chicago-il-june-august-2023-span2 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 26px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.baker-tilly-us-llp-digital-healthcare-consulting-intern-chicago-il-june-august-2023-span3 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 20px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.cintas-corporation-corporate-safety-and-health-intern-chicago-il-hybrid-june-2021-march-2023 {
+  color: #ffffff;
+  background: #757575;
+  text-align: left;
+  position: absolute;
+  left: 96px;
+  top: 1177px;
+  width: 305px;
+  height: 307px;
+}
+.cintas-corporation-corporate-safety-and-health-intern-chicago-il-hybrid-june-2021-march-2023-span {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 36px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+.cintas-corporation-corporate-safety-and-health-intern-chicago-il-hybrid-june-2021-march-2023-span2 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 24px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.cintas-corporation-corporate-safety-and-health-intern-chicago-il-hybrid-june-2021-march-2023-span3 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 20px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.illinois-consulting-group-project-director-champaign-il-february-2022-may-2024 {
+  color: #ffffff;
+  background: #757575;
+  text-align: left;
+  position: absolute;
+  left: 107px;
+  top: 1800px;
+  width: 305px;
+  height: 324px;
+}
+.illinois-consulting-group-project-director-champaign-il-february-2022-may-2024-span {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 36px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+.illinois-consulting-group-project-director-champaign-il-february-2022-may-2024-span2 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 24px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.illinois-consulting-group-project-director-champaign-il-february-2022-may-2024-span3 {
+  color: #ffffff;
+  background: #757575;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 20px;
+  line-height: 160%;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+.image-1 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1177px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-2 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1303px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1419px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1049px;
+  top: 195px;
+  object-fit: cover;
+}
+._2024-emily-deleon {
+  color: rgba(255, 255, 255, 0.19);
+  text-align: left;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 24px;
+  line-height: 160%;
+  font-weight: 400;
+  position: absolute;
+  left: 839px;
+  top: 2500px;
+  width: 241px;
+  height: 52px;
+}
+.emily-deleon-emilygdeleon-gmail-com {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: left;
+  position: absolute;
+  right: 10px;
+  left: 85px;
+  top: 195px;
+  height: 300px;
+}
+.emily-deleon-emilygdeleon-gmail-com-span {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Libre Baskerville", Helvetica;
+  font-size: 90px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+}
+.emily-deleon-emilygdeleon-gmail-com-span2 {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "Libre Baskerville", Helvetica;
+  font-size: 64px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+}
+.image-1 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1049px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-2 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1177px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1303px;
+  top: 195px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 1419px;
+  top: 195px;
+  object-fit: cover;
+}
+.header {
+  width: 1714px;
+  height: 221px;
+  position: absolute;
+  left: calc(50% - 824px);
+  top: 26px;
+  overflow: hidden;
+}
+.experience {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 623px);
+  top: calc(50% - 82.5px);
+  width: 252px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.education {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 990px;
+  top: 28px;
+  width: 181px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.technical-skills-and-relevant-skills {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 355px;
+  top: 28px;
+  width: 542px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.linked-in {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 90px;
+  top: 28px;
+  width: 173px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 1536px;
+  top: 28px;
+  width: 190px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
