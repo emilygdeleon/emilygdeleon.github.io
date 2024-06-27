@@ -124,17 +124,17 @@
   align-items: center;
   justify-content: center;
 }
-.education {
-  color: rgba(255, 255, 255, 0.9);
+.experience {
+  color: rgba(255, 255, 255, 0.77);
   text-align: center;
   font-family: "Maven Pro", Helvetica;
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
   position: absolute;
-  right: 990px;
-  top: 28px;
-  width: 181px;
+  left: calc(50% - 623px);
+  top: calc(50% - 82.5px);
+  width: 252px;
   height: 101px;
   display: flex;
   align-items: center;
