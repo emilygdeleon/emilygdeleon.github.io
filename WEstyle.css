@@ -158,38 +158,6 @@
   letter-spacing: 0.04em;
   font-weight: 600;
 }
-.image-5 {
-  width: 85px;
-  height: 85px;
-  position: absolute;
-  left: 1177px;
-  top: 195px;
-  object-fit: cover;
-}
-.image-2 {
-  width: 85px;
-  height: 85px;
-  position: absolute;
-  left: 1303px;
-  top: 195px;
-  object-fit: cover;
-}
-.image-3 {
-  width: 85px;
-  height: 85px;
-  position: absolute;
-  left: 1419px;
-  top: 195px;
-  object-fit: cover;
-}
-.image-4 {
-  width: 85px;
-  height: 85px;
-  position: absolute;
-  left: 1049px;
-  top: 195px;
-  object-fit: cover;
-}
 ._2024-emily-deleon {
   color: rgba(255, 255, 255, 0.19);
   text-align: left;
