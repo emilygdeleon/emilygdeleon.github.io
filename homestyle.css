@@ -211,7 +211,3 @@
     justify-content: center;
 }
 
-.nav-link:hover, .nav-link:focus {
-    background-color: #555; /* Example hover/focus state */
-}
-
