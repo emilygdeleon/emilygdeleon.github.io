@@ -21,9 +21,10 @@
     width: 800px;
     height: 1214px;
 }
-  .emily-deleon-emilygdeleon-gmail-com {
+.emily-deleon-emilygdeleon-gmail-com {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
+  position: absolute;
   right: 10px;
   left: 85px;
   top: 150px;
