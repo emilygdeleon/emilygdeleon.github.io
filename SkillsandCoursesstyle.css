@@ -334,18 +334,6 @@
     top: 26px;
     overflow: hidden;
 }
-.home, .experience, .education, .technical-skills-and-relevant-skills, .linked-in {
-    color: rgba(255, 255, 255, 0.9);
-    text-align: center;
-    font-family: "Maven Pro", Helvetica;
-    font-size: 32px;
-    line-height: 130%;
-    font-weight: 400;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 121px;
-}
 .experience {
   color: rgba(255, 255, 255, 0.77);
   text-align: center;
