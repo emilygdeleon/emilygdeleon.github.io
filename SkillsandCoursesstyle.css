@@ -326,13 +326,13 @@
   top: 195px;
   object-fit: cover;
 }
-  .header {
-    width: 1714px;
-    height: 221px;
-    position: absolute;
-    left: calc(50% - 824px);  /* Adjust the left position to center align based on your page layout */
-    top: 26px;
-    overflow: hidden;
+.header {
+  width: 1714px;
+  height: 221px;
+  position: absolute;
+  left: calc(50% - 824px);
+  top: 26px;
+  overflow: hidden;
 }
 .experience {
   color: rgba(255, 255, 255, 0.77);
@@ -350,7 +350,7 @@
   align-items: center;
   justify-content: center;
 }
-.education2 {
+.education {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
   font-family: "Maven Pro", Helvetica;
