@@ -196,3 +196,22 @@
   align-items: center;
   justify-content: center;
 }
+.nav-link {
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    font-family: "Maven Pro", Helvetica;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 400;
+    text-decoration: none;  /* Removes underline from links */
+    display: block;  /* Makes the link fill the li element */
+    width: 100%;  /* Ensures the clickable area extends across the entire list item */
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link:hover, .nav-link:focus {
+    background-color: #555; /* Example hover/focus state */
+}
+
