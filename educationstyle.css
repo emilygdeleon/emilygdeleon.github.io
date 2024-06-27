@@ -80,25 +80,24 @@
   position: absolute;
   right: 10px;
   left: 85px;
-  top: 195px;
-  height: 300px;
+  top: 150px;
+  height: 200px;
 }
 .emily-deleon-emilygdeleon-gmail-com-span {
   color: rgba(255, 255, 255, 0.9);
   font-family: "Libre Baskerville", Helvetica;
-  font-size: 90px;
-  line-height: 120%;
-  letter-spacing: -0.02em;
+  font-size: 63px; /* Reduced by 30% */
+  line-height: 120%; /* Maintaining the same line-height ratio */
+  letter-spacing: -0.02em; /* Keeping the letter-spacing the same */
   font-weight: 400;
 }
 .emily-deleon-emilygdeleon-gmail-com-span2 {
   color: rgba(255, 255, 255, 0.9);
   font-family: "Libre Baskerville", Helvetica;
-  font-size: 64px;
-  line-height: 120%;
-  letter-spacing: -0.02em;
+  font-size: 45px; /* Reduced by 30% and rounded */
+  line-height: 120%; /* Maintaining the same line-height ratio */
+  letter-spacing: -0.02em; /* Keeping the letter-spacing the same */
   font-weight: 400;
-/* Header styles unified based on homestyle.css */
 }
 .header {
   width: 1714px;
