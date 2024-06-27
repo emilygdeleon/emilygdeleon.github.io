@@ -116,8 +116,9 @@
   line-height: 130%;
   font-weight: 400;
   position: absolute;
-  left: calc(50% - 623px);
-  top: calc(50% - 82.5px);
+  left: 50%; /* Center horizontally relative to the nearest positioned ancestor */
+  top: 1350px; /* Adjust this value as needed to position it towards the bottom */
+  transform: translateX(-50%); /* Shifts the element left by half its width to truly center it */
   width: 252px;
   height: 101px;
   display: flex;
