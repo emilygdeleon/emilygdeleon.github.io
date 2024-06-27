@@ -119,10 +119,6 @@
   right: 990px;
   top: 28px;
   width: 181px;
-  height: 101px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 .experience {
   color: rgba(255, 255, 255, 0.77);
