@@ -326,13 +326,41 @@
   top: 195px;
   object-fit: cover;
 }
-.header {
-  width: 1714px;
-  height: 221px;
+  .header {
+    width: 1714px;
+    height: 221px;
+    position: absolute;
+    left: calc(50% - 824px);  /* Adjust the left position to center align based on your page layout */
+    top: 26px;
+    overflow: hidden;
+}
+.home, .experience, .education, .technical-skills-and-relevant-skills, .linked-in {
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    font-family: "Maven Pro", Helvetica;
+    font-size: 32px;
+    line-height: 130%;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 121px;
+}
+.home {
+  color: rgba(255, 255, 255, 0.77);
+  text-align: center;
+  font-family: "Maven Pro", Helvetica;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 400;
   position: absolute;
-  left: calc(50% - 824px);
-  top: 26px;
-  overflow: hidden;
+  right: 1536px;
+  top: 28px;
+  width: 190px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .experience {
   color: rgba(255, 255, 255, 0.77);
@@ -399,7 +427,7 @@
   align-items: center;
   justify-content: center;
 }
-.home {
+.home2 {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
   font-family: "Maven Pro", Helvetica;
