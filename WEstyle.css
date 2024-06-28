@@ -160,13 +160,12 @@
 }
 ._2024-emily-deleon {
   color: rgba(255, 255, 255, 0.19);
-  text-align: left;
-  font-family: "Inter-Regular", Helvetica;
+  text-align: center; /* Ensures the text inside the element is centered */
+  font-family: "Maven Pro", Helvetica;
   font-size: 24px;
   line-height: 160%;
   font-weight: 400;
   position: absolute;
-  left: 839px;
   top: 1725px;
   width: 241px;
   height: 52px;
