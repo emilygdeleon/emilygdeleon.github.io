@@ -166,6 +166,7 @@
   line-height: 160%;
   font-weight: 400;
   position: absolute;
+  left: 50%; /* Center horizontally */
   top: 1725px;
   width: 241px;
   height: 52px;
