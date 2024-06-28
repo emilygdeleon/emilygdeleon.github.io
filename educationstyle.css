@@ -3,8 +3,8 @@
   box-sizing: border-box;
 }
 .education {
-    background: #757575;
-    height: 1300px;
+  background: #757575;
+  height: 1300px;
   position: relative;
   overflow: hidden;
 }
@@ -69,10 +69,11 @@
   line-height: 160%;
   font-weight: 400;
   position: absolute;
-  left: 839px;
   top: 1001px;
   width: 241px;
   height: 64px;
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Shift horizontally by half its width to truly center it */
 }
 .emily-deleon-emilygdeleon-gmail-com {
   color: rgba(255, 255, 255, 0.9);
