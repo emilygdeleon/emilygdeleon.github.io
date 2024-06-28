@@ -5,7 +5,7 @@
 .work-experience {
   background: #757575;
   height: 2570px;
-  position: relative;
+  position: absolute;
   overflow: hidden;
 }
 .button {
@@ -14,7 +14,7 @@
   padding: 19px 32px 19px 32px;
   width: 299px;
   height: 90px;
-  position: relative;
+  position: absolute;
   left: calc(50% - 135px);
   top: 350px;
   overflow: hidden;
@@ -26,7 +26,7 @@
   font-size: 26px;
   line-height: 130%;
   font-weight: 700;
-  position: relative;
+  position: absolute;
   left: calc(50% - 117.5px);
   top: calc(50% - 17px);
   display: flex;
@@ -41,7 +41,7 @@
   font-size: 26px;
   line-height: 160%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   left: 504px;
   top: 503px;
   width: 1070px;
@@ -51,7 +51,7 @@
   color: #ffffff;
   background: #757575;
   text-align: left;
-  position: relative;
+  position: absolute;
   left: 107px;
   top: 516px;
   width: 305px;
@@ -88,7 +88,7 @@
   color: #ffffff;
   background: #757575;
   text-align: left;
-  position: relative;
+  position: absolute;
   left: 96px;
   top: 1057px;
   width: 305px;
@@ -125,7 +125,7 @@
   color: #ffffff;
   background: #757575;
   text-align: left;
-  position: relative;
+  position: absolute;
   left: 107px;
   top: 1680px;
   width: 305px;
@@ -165,7 +165,7 @@
   font-size: 24px;
   line-height: 160%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   left: 839px;
   top: 2500px;
   width: 241px;
@@ -174,7 +174,7 @@
 .emily-deleon-emilygdeleon-gmail-com {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
-  position: relative;
+  position: absolute;
   right: 10px;
   left: 85px;
   top: 150px;
@@ -199,7 +199,7 @@
 .image-5 {
   width: 85px;
   height: 85px;
-  position: relative;
+  position: absolute;
   left: 1049px;
   top: 195px;
   object-fit: cover;
@@ -207,7 +207,7 @@
 .image-2 {
   width: 85px;
   height: 85px;
-  position: relative;
+  position: absolute;
   left: 1177px;
   top: 195px;
   object-fit: cover;
@@ -215,7 +215,7 @@
 .image-3 {
   width: 85px;
   height: 85px;
-  position: relative;
+  position: absolute;
   left: 1303px;
   top: 195px;
   object-fit: cover;
@@ -223,7 +223,7 @@
 .image-4 {
   width: 85px;
   height: 85px;
-  position: relative;
+  position: absolute;
   left: 1419px;
   top: 195px;
   object-fit: cover;
@@ -231,7 +231,7 @@
 .header {
   width: 1714px;
   height: 221px;
-  position: relative;
+  position: absolute;
   left: calc(50% - 824px);
   top: 26px;
   overflow: hidden;
@@ -243,7 +243,7 @@
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   left: calc(50% - 623px);
   top: calc(50% - 82.5px);
   width: 252px;
@@ -259,7 +259,7 @@
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   right: 990px;
   top: 28px;
   width: 181px;
@@ -275,7 +275,7 @@
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   right: 355px;
   top: 28px;
   width: 542px;
@@ -292,7 +292,7 @@
   line-height: 130%;
   font-weight: 400;
   text-decoration: underline;
-  position: relative;
+  position: absolute;
   right: 90px;
   top: 28px;
   width: 173px;
@@ -308,7 +308,7 @@
   font-size: 32px;
   line-height: 130%;
   font-weight: 400;
-  position: relative;
+  position: absolute;
   right: 1536px;
   top: 28px;
   width: 190px;
