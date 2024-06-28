@@ -8,16 +8,25 @@
   position: relative;
   overflow: hidden;
 }
-.button {
-  background: #ffffff;
-  border-radius: 8px;
-  padding: 19px 32px 19px 32px;
-  width: 299px;
-  height: 90px;
-  position: absolute;
-  left: calc(50% - 135px);
-  top: 350px;
-  overflow: hidden;
+.button a {
+  display: inline-block; /* Ensures the link occupies the full size of the button */
+  background: #ffffff; /* Button background color */
+  border-radius: 8px; /* Rounded corners */
+  padding: 19px 32px; /* Padding to increase the clickable area */
+  width: 299px; /* Full width of the button */
+  height: 90px; /* Height of the button */
+  color: rgba(0, 0, 0, 0.7); /* Text color */
+  text-align: center; /* Center the text */
+  font-family: "Inter-Bold", Helvetica; /* Font styling */
+  font-size: 26px; /* Font size */
+  line-height: 130%; /* Line height for vertical centering */
+  font-weight: 700; /* Font weight */
+  text-decoration: none; /* Remove underline from link */
+  position: absolute; /* Absolute positioning */
+  left: calc(50% - 149.5px); /* Horizontally center */
+  top: 350px; /* Vertical position */
+  justify-content: center; /* Center content for Flexbox */
+  align-items: center; /* Center content vertically */
 }
 .download-resume {
   color: rgba(0, 0, 0, 0.7);
