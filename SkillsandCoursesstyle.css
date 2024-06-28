@@ -279,21 +279,20 @@
 }
 .courses-completed-at-the-university-of-illinois-at-urbana-champaign {
   color: rgba(255, 255, 255, 0.77);
-  color: rgba(255, 255, 255, 0.77);
   text-align: left;
   position: absolute;
   left: 99px;
   height: 326px;
   top: 435px;
   height: 326px;
-  }
-  .courses-completed-at-the-university-of-illinois-at-urbana-champaign-span2 {
-    font-family: "Libre Baskerville", Helvetica;
-    font-size: 46px;
-    line-height: 120%;
-    letter-spacing: -0.02em;
-    font-weight: 400;
-  }
+}
+.courses-completed-at-the-university-of-illinois-at-urbana-champaign-span2 {
+  font-family: "Libre Baskerville", Helvetica;
+  font-size: 46px;
+  line-height: 120%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+}
 .image-5 {
   width: 85px;
   height: 85px;
