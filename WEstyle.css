@@ -8,25 +8,29 @@
   position: relative;
   overflow: hidden;
 }
-.button a {
-  display: inline-block; /* Ensures the link occupies the full size of the button */
-  background: #ffffff; /* Button background color */
-  border-radius: 8px; /* Rounded corners */
-  padding: 19px 32px; /* Padding to increase the clickable area */
-  width: 299px; /* Full width of the button */
-  height: 90px; /* Height of the button */
-  color: rgba(0, 0, 0, 0.7); /* Text color */
-  text-align: center; /* Center the text */
-  font-family: "Inter-Bold", Helvetica; /* Font styling */
-  font-size: 26px; /* Font size */
-  line-height: 130%; /* Line height for vertical centering */
-  font-weight: 700; /* Font weight */
-  text-decoration: none; /* Remove underline from link */
-  position: absolute; /* Absolute positioning */
-  left: calc(50% - 149.5px); /* Horizontally center */
+.button a.download-resume {
+  display: block; /* Ensures the link behaves like a block element */
+  background: #ffffff; /* Maintains the button's white background */
+  color: rgba(0, 0, 0, 0.7); /* Ensures the text color stays consistent */
+  text-align: center; /* Centers the text inside the button */
+  padding: 19px 32px; /* Keeps the button's padding */
+  width: calc(100% - 64px); /* Adjust width to account for padding */
+  height: 52px; /* Height of the text area */
+  line-height: 52px; /* Aligns text vertically */
+  border-radius: 8px; /* Rounds the corners of the button */
+  font-family: "Inter-Bold", Helvetica; /* Ensures the button uses the correct font */
+  font-size: 26px; /* Maintains font size */
+  font-weight: 700; /* Ensures bold text */
+  text-decoration: none; /* Removes any underline from the link */
+  box-sizing: border-box; /* Ensures padding and border are included in width/height */
+}
+.button {
+  position: absolute;
+  left: calc(50% - 149.5px); /* Centering the button horizontally */
   top: 350px; /* Vertical position */
-  justify-content: center; /* Center content for Flexbox */
-  align-items: center; /* Center content vertically */
+  width: 299px; /* Total width of the button */
+  height: 90px; /* Total height of the button */
+  overflow: hidden; /* Ensures no overflow content is visible */
 }
 .download-resume {
   color: rgba(0, 0, 0, 0.7);
