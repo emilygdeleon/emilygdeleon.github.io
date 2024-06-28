@@ -8,29 +8,16 @@
   position: relative;
   overflow: hidden;
 }
-.button a.download-resume {
-  display: block; /* Ensures the link behaves like a block element */
-  background: #ffffff; /* Maintains the button's white background */
-  color: rgba(0, 0, 0, 0.7); /* Ensures the text color stays consistent */
-  text-align: center; /* Centers the text inside the button */
-  padding: 19px 32px; /* Keeps the button's padding */
-  width: calc(100% - 64px); /* Adjust width to account for padding */
-  height: 52px; /* Height of the text area */
-  line-height: 52px; /* Aligns text vertically */
-  border-radius: 8px; /* Rounds the corners of the button */
-  font-family: "Inter-Bold", Helvetica; /* Ensures the button uses the correct font */
-  font-size: 26px; /* Maintains font size */
-  font-weight: 700; /* Ensures bold text */
-  text-decoration: none; /* Removes any underline from the link */
-  box-sizing: border-box; /* Ensures padding and border are included in width/height */
-}
 .button {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 19px 32px 19px 32px;
+  width: 299px;
+  height: 90px;
   position: absolute;
-  left: calc(50% - 149.5px); /* Centering the button horizontally */
-  top: 350px; /* Vertical position */
-  width: 299px; /* Total width of the button */
-  height: 90px; /* Total height of the button */
-  overflow: hidden; /* Ensures no overflow content is visible */
+  left: calc(50% - 135px);
+  top: 350px;
+  overflow: hidden;
 }
 .download-resume {
   color: rgba(0, 0, 0, 0.7);
