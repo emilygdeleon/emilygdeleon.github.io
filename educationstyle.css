@@ -71,7 +71,7 @@
   position: absolute;
   left: 50%; /* Center horizontally */
   transform: translateX(-50%); /* Shift horizontally by half its width to truly center it */
-  top: 760px;
+  top: 890px;
   width: 241px;
   height: 52px;
 }
