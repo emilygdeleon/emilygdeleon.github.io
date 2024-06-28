@@ -4,7 +4,7 @@
 }
 .education {
   background: #757575;
-  height: 1000px;
+  height: 9350px;
   position: relative;
   overflow: hidden;
 }
@@ -71,7 +71,7 @@
   position: absolute;
   left: 50%; /* Center horizontally */
   transform: translateX(-50%); /* Shift horizontally by half its width to truly center it */
-  top: 820px;
+  top: 760px;
   width: 241px;
   height: 52px;
 }
