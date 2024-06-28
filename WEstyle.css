@@ -4,7 +4,7 @@
 }
 .work-experience {
   background: #757575;
-  height: 1880px;
+  height: 1780px;
   position: relative;
   overflow: hidden;
 }
@@ -90,7 +90,7 @@
   text-align: left;
   position: absolute;
   left: 96px;
-  top: 853px;
+  top: 703px;
   width: 305px;
   height: 307px;
 }
@@ -127,7 +127,7 @@
   text-align: left;
   position: absolute;
   left: 107px;
-  top: 1295px;
+  top: 1290px;
   width: 305px;
   height: 324px;
 }
@@ -167,7 +167,7 @@
   font-weight: 400;
   position: absolute;
   left: 839px;
-  top: 1830px;
+  top: 1760px;
   width: 241px;
   height: 52px;
 }
