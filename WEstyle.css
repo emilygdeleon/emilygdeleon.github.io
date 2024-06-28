@@ -5,7 +5,7 @@
 .work-experience {
   background: #757575;
   height: 2570px;
-  position: absolute;
+  position: relative;
   overflow: hidden;
 }
 .button {
