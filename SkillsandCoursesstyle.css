@@ -8,16 +8,6 @@
   position: relative;
   overflow: hidden;
 }
-.technical-skills-and-relevant-courses {
-  display: flex; /* Use flexbox */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  background-color: #757575;
-  height: 100vh; /* Make the container full viewport height */
-  width: 100vw; /* Make the container full viewport width */
-  position: relative;
-  overflow: hidden;
-}
 .technical-skills-python-sql-figma-power-bi-microsoft-office-suite-excel-power-point-word-outlook-teams-one-note-share-point-one-drive-google-suite-drive-docs-sheets-forms-calendar-smartsheet-airtable-matlab-cad-autodesk-inventor-fusion-360-lt-spice-automation-optimization-modeling-engineering {
   color: rgba(255, 255, 255, 0.77);
   text-align: left;
@@ -25,10 +15,9 @@
   font-size: 36px;
   line-height: 160%;
   font-weight: 700;
-  position: absolute; /* Changed to absolute to position specifically within the flex container */
-  left: 50%; /* Center the content horizontally */
-  top: 50%; /* Center the content vertically */
-  transform: translate(-50%, -50%); /* Adjust the positioning to truly center the element */
+  position: relative;
+  left: 150px;
+  top: 540px;
   width: 743px;
   height: 1638px;
 }
