@@ -17,7 +17,7 @@
   font-weight: 700;
   position: relative;
   left: 150px;
-  top: 600px;
+  top: 540px;
   width: 743px;
   height: 1638px;
 }
@@ -111,7 +111,7 @@
   font-weight: 700;
   position: absolute;
   left: 945px;
-  top: 600px;
+  top: 540px;
   width: 690px;
   height: 1529px;
 }
@@ -283,7 +283,7 @@
   color: rgba(255, 255, 255, 0.77);
   position: absolute;
   left: 99px;
-  top: 375px;
+  top: 355px;
   height: 475px;
   text-align: center; /* Ensures the text inside the element is centered */
   left: 50%; /* Center horizontally */
