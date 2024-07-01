@@ -282,7 +282,7 @@
   position: absolute;
   left: 99px;
   top: 275px;
-  height: 450px;
+  height: 465px;
   text-align: center; /* Ensures the text inside the element is centered */
   left: 50%; /* Center horizontally */
   transform: translateX(-50%); /* Shift horizontally by half its width to truly center it */
