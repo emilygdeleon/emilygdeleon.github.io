@@ -20,7 +20,7 @@ u.homepage,
     font-size: 20px;  /* Make sure no other styles are overriding this */
     line-height: 180%;
     font-weight: 400;
-    position: absolute;
+    position: fixed;
     left: 96px;
     top: 300px;  /* Adjusted to move text upwards */
     width: 800px;
