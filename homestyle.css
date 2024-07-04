@@ -1,3 +1,5 @@
+Original file line number	Original file line	Diff line number	Diff line change
+	@@ -1,22 +1,22 @@
 u.homepage,
 .homepage * {
   box-sizing: border-box;
@@ -16,7 +18,7 @@ u.homepage,
     line-height: 180%;
     font-weight: 400;
     position: absolute;
-    left: 6.4vw; /* This is approximately 96px on a standard 1500px wide screen, adjust the percentage based on your specific layout needs */
+    left: 96px;
     top: 300px;  /* Adjusted to move text upwards */
     width: 800px;
     height: 1214px;
