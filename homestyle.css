@@ -19,11 +19,12 @@
   line-height: 180%;
   font-weight: 400;
   position: absolute;
-  left: 50%; /* Center horizontally */
   top: 300px;
   width: 800px;
   height: 1214px;
   transform: translateX(-50%); /* Shift horizontally by half its width to truly center it */
+}
+
 }
 .emily-deleon-emilygdeleon-gmail-com {
   color: rgba(255, 255, 255, 0.9);
