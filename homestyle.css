@@ -16,7 +16,7 @@ u.homepage,
     line-height: 180%;
     font-weight: 400;
     position: absolute;
-    left: 96px;
+    left: 6.4vw; /* This is approximately 96px on a standard 1500px wide screen, adjust the percentage based on your specific layout needs */
     top: 300px;  /* Adjusted to move text upwards */
     width: 800px;
     height: 1214px;
